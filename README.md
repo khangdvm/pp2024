@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
+* Student Name: Dao Vu Minh Khang
+* Student ID: 23BI14210
+* Email: khangdvm.23bi14210@usth.edu.vn
 
