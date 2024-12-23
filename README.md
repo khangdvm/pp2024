@@ -1,6 +1,6 @@
 USTH ICT 2024 Advanced Programming with Python
 =====================================================
-This is my first labwork with Advanced Python Programming
+This is my second labwork with Advanced Python Programming
 Class: ICT - B2
 
 Student Info
